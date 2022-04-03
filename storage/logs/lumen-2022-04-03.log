@@ -1,0 +1,106 @@
+[2022-04-03 00:00:51] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-03 00:01:51] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in C:\xampp\htdocs\api-dados\vendor\illuminate\container\Container.php:1104
+Stack trace:
+#0 C:\xampp\htdocs\api-dados\vendor\illuminate\container\Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 C:\xampp\htdocs\api-dados\vendor\illuminate\container\Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 C:\xampp\htdocs\api-dados\vendor\illuminate\container\Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 C:\xampp\htdocs\api-dados\vendor\illuminate\container\Container.php(758): Illuminate\Container\Container->build('Illuminate\\View...')
+#4 C:\xampp\htdocs\api-dados\vendor\illuminate\container\Container.php(694): Illuminate\Container\Container->resolve('Illuminate\\View...', Array)
+#5 C:\xampp\htdocs\api-dados\vendor\laravel\lumen-framework\src\Application.php(300): Illuminate\Container\Container->make('Illuminate\\View...', Array)
+#6 C:\xampp\htdocs\api-dados\vendor\laravel\lumen-framework\src\helpers.php(42): Laravel\Lumen\Application->make('Illuminate\\View...', Array)
+#7 Command line code(1): app('Illuminate\\View...')
+#8 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in C:\\xampp\\htdocs\\api-dados\\vendor\\illuminate\\container\\Container.php:1104
+Stack trace:
+#0 C:\\xampp\\htdocs\\api-dados\\vendor\\illuminate\\container\\Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 C:\\xampp\\htdocs\\api-dados\\vendor\\illuminate\\container\\Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 C:\\xampp\\htdocs\\api-dados\\vendor\\illuminate\\container\\Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 C:\\xampp\\htdocs\\api-dados\\vendor\\illuminate\\container\\Container.php(758): Illuminate\\Container\\Container->build('Illuminate\\\\View...')
+#4 C:\\xampp\\htdocs\\api-dados\\vendor\\illuminate\\container\\Container.php(694): Illuminate\\Container\\Container->resolve('Illuminate\\\\View...', Array)
+#5 C:\\xampp\\htdocs\\api-dados\\vendor\\laravel\\lumen-framework\\src\\Application.php(300): Illuminate\\Container\\Container->make('Illuminate\\\\View...', Array)
+#6 C:\\xampp\\htdocs\\api-dados\\vendor\\laravel\\lumen-framework\\src\\helpers.php(42): Laravel\\Lumen\\Application->make('Illuminate\\\\View...', Array)
+#7 Command line code(1): app('Illuminate\\\\View...')
+#8 {main}
+  thrown at C:\\xampp\\htdocs\\api-dados\\vendor\\illuminate\\container\\Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-03 00:01:51] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-03 00:02:51] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-03 00:03:51] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-03 00:04:51] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-03 00:05:51] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-03 00:06:51] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-03 00:07:51] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
